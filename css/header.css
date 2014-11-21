@@ -1,0 +1,152 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+.header{
+      height: 150px;
+      background-image: url(../img/banner_central.jpg);
+      -webkit-background-size: 100% 100%;    /* Safari 3.0 */
+      -moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+      -o-background-size: 100% 100%;         /* Opera 9.5 */
+      background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+      -moz-border-image: url(../img/banner_central.jpg) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+}
+
+#header-pills{
+position:relative;
+top:100px;
+color: white;
+}
+
+#IEH{
+position:relative;
+left: 50px;
+height: 100px;
+width: 90px;
+background-image: url(../img/buho_ieh.png);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/buho_ieh.png) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+padding-top: 100px;
+text-align: center;
+text-shadow: 0 0 2px #000;
+color: white;
+}
+
+#main-jumbotron{
+background-image: url(../img/cintillo1.gif);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/cintillo1.gif) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+height: 200px;
+border-radius:0;
+margin:0;
+}
+
+.julio30-head{
+padding:5px;
+text-align: center;
+margin:0;
+background-color: #3087FF;
+color:white;
+}
+.julio30-text{
+background-color: #545659;
+color:white;
+height:150px;
+}
+
+#julio30-img{
+height:150px;
+background-image: url(../img/banner30julio.jpg);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/banner30julio.jpg) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+}
+
+#trabajando-img{
+height:350px;
+background-image: url(../img/asech.png);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/asech.png) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+}
+
+.trabajando-head{
+padding:5px;
+text-align: center;
+margin:0;
+background-color: #2D6F85;
+color:white;
+}
+
+#trayectoria-img{
+height:350px;
+background-image: url(../img/ieh1.jpg);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/ieh1.jpg) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+}
+
+#actualidad-jumbotron{
+background-image: url(../img/cintillo1.gif);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/cintillo1.gif) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+height: 200px;
+border-radius:0;
+margin:0;
+}
+
+
+#cdues-img{
+background-image: url(../img/cdues.jpg);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/cdues.jpg) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+height: 200px;
+border-radius:0;
+margin:0;
+}
+
+#nuevoing-img{
+background-image: url(../img/nuevoing.jpg);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/nuevoing.jpg) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+height: 200px;
+border-radius:0;
+margin:0;
+}
+
+#interfac-img{
+background-image: url(../img/interfac.jpg);
+-webkit-background-size: 100% 100%;    /* Safari 3.0 */
+-moz-background-size: 100% 100%;       /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;         /* Opera 9.5 */
+background-size: 100% 100%;            /* Gecko 2.0 (Firefox 4.0) */
+-moz-border-image: url(../img/interfac.jpg) 0;/* Gecko 1.9.1 (Firefox 3.5) */
+height: 200px;
+border-radius:0;
+margin:0;
+}
+
+.container{
+ max-width: 800px;
+}
+
+

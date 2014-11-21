@@ -1,0 +1,22 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  min-height: 100%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+  margin:auto;
+}
+
+.footer .nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
